@@ -1,0 +1,6 @@
+#This is the crontab -e script
+
+DISPLAY=":0.0"
+*/5 * * * * /home/ubuntu/Total.sh
+*/5 * * * * /home/ubuntu/environnement/my_dashboradMV.py
+
